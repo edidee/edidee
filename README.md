@@ -1,4 +1,4 @@
-### Hi Hi 👋 I'm Edidee,
+### Hi Hi 👋 I'm Edidee, a frontend developer and a technical writer
 
 <!--
 **edidee/edidee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
