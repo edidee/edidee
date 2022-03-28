@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Vue/Nuxt.js
+- 🌱 I write Vue and React
 - 💬 Ask me about Javascript
 - 📫 How to reach me: -twitter: [@edidee](https://twitter.com/EdidiongEtok) -Linkedin: [Edidiong Etok](https://www.linkedin.com/in/edidiong-etok-bb1425189/)
 - ⚡ Fun fact: I'm a fitness junkie
