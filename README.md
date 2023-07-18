@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I write Vue and React
-- 💬 Ask me about Javascript
+- 🌱 I write React,Typescript and Next.js
+- 💬 Ask me about Javascript, Typescript, React, Next.js and Tailwind.
 - 📫 How to reach me: -twitter: [@edidee](https://twitter.com/EdidiongEtok) -Linkedin: [Edidiong Etok](https://www.linkedin.com/in/edidiong-etok-bb1425189/)
 - ⚡ Fun fact: I'm a fitness junkie
 
